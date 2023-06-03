@@ -3,7 +3,7 @@
 
 - 🔭  I’m currently working on Microearthquake
 - 🌱  Blog:      https://www.RaySong513.github.io
-- ⚡  Bilibili: (https://space.bilibili.com/27228095)
+- ⚡  Bilibili:  https://space.bilibili.com/27228095
 - 📫  Mail: songjinglei@cug.edu.cn 
 
 <!--
