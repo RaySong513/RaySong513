@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=RaySong513&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 ### Hi there 👋 <img src="https://komarev.com/ghpvc/?username=RaySong513&label=Visits" alt="RaySong513" />
 
-- 🔭  I’m currently working on Microearthquake
+- 🔭  I’m currently working on Microseismic
 - 🌱  Blog:      https://www.RaySong513.github.io
 - ⚡  Bilibili:  https://space.bilibili.com/27228095
 - 📫  Mail: songjinglei@cug.edu.cn 
