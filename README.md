@@ -1,22 +1,37 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=RaySong513&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-### Hi there 👋 <img src="https://komarev.com/ghpvc/?username=RaySong513&label=Visits" alt="RaySong513" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=RaySong513&show_icons=true&theme=radical" />
 
-- 🔭  I’m currently working on Microseismic
-- 🌱  Blog:      https://www.RaySong513.github.io
-- ⚡  Bilibili:  https://space.bilibili.com/27228095
-- 📫  Mail: songjinglei@cug.edu.cn 
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Sans&pause=1000&color=C785DD&vCenter=true&width=200&height=40&lines=Hey+there%2C+I'm+Ray!)](https://git.io/typing-svg) 👋 <img src="https://komarev.com/ghpvc/?username=RaySong513&label=Visits" alt="RaySong513" />
 
-<!--
-**RaySong513/RaySong513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate geophysicist and data enthusiast, diving deep into the world of **microseismic** research and exploration. With a knack for blending cutting-edge technology with geological insights, I'm constantly pushing the boundaries of what's possible in the field of seismic analysis.
 
-Here are some ideas to get you started:
+- 🔭 **Current Focus:** Advancing the frontiers of **Microseismic Monitoring** and **AI-driven Seismic Data Processing**.
+- 🌱 **Learning & Growing:** Always expanding my skillset, with a current focus on **Machine Learning** and **Seismic Data Visualization**.
+- 📝 **Blog:** [RaySong's Geological Insights](https://www.RaySong513.github.io) - Sharing knowledge, tips, and discoveries in geophysics.
+- 🎥 **Bilibili:** [My Bilibili Space](https://space.bilibili.com/27228095) - Where science meets creativity!
+- 📫 **Reach Out:** Feel free to drop me a line at **songjinglei@cug.edu.cn**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💬 **Let's Connect:** Whether you're into geophysics, machine learning, or just want to chat about the latest tech trends, I'm always open to new collaborations and discussions. Let's push the boundaries of what's possible, together!
+
+---
+
+### 🛠️ My Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00C853?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=RaySong513&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🐍 Watch the Snake Eat My Contributions
+![Snake animation](https://github.com/RaySong513/RaySong513/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🌱 Random Quote
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
