@@ -24,4 +24,7 @@ I am a passionate geophysics student, majoring in Exploration Technology and Eng
 ---
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=RaySong513&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RaySong513&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+<!--https://github-profile-trophy.vercel.app/?username=RaySong513&theme=onedark-->
+<!--https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism-->
+<!--https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh-->
