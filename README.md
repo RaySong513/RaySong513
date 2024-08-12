@@ -61,10 +61,14 @@ I am a passionate **Geophysics Enthusiast** currently majoring in **Exploration 
 
 ### 🎥 **Favorite Anime**
 <p align="left">
-  <img src="https://cdn.myanimelist.net/images/anime/1084/144617l.jpg" alt="Shikanoko Nokonoko Koshitantan" width="112.5" height="159">
-  <img src="https://cdn.myanimelist.net/images/anime/1964/144587l.jpg" alt="My Deer Friend Nokotan" width="112.5" height="159">
-  <img src="https://cdn.myanimelist.net/images/anime/1129/135442.jpg" alt="Cyberpunk: Edgerunners" width="112.5" height="159">
-  <img src="https://cdn.myanimelist.net/images/anime/1795/95088.jpg" alt="Violet Evergarden" width="112.5" height="159">
-  <img src="https://cdn.myanimelist.net/images/anime/1015/138006l.jpg" alt="Sousou no Frieren" width="112.5" height="159">
-  <img src="https://cdn.myanimelist.net/images/anime/1667/135908l.jpg" alt="Frieren: Beyond Journey's End" width="112.5" height="159">
+  <img src="https://cdn.myanimelist.net/images/anime/1084/144617l.jpg" alt="Shikanoko Nokonoko Koshitantan" width="75" height="106">
+  <img src="https://cdn.myanimelist.net/images/anime/1964/144587l.jpg" alt="My Deer Friend Nokotan" width="75" height="106">
+  <img src="https://cdn.myanimelist.net/images/anime/1129/135442.jpg" alt="Cyberpunk: Edgerunners" width="75" height="106">
+  <img src="https://cdn.myanimelist.net/images/anime/1448/127956l.jpg" alt="Bocchi the Rock!" width="75" height="106">
+  <img src="https://cdn.myanimelist.net/images/anime/1015/138006l.jpg" alt="Sousou no Frieren" width="75" height="106">
+  <img src="https://cdn.myanimelist.net/images/anime/1667/135908l.jpg" alt="Frieren: Beyond Journey's End" width="75" height="106">
+  <img src="https://cdn.myanimelist.net/images/anime/1711/140515l.jpg" alt="Girls Band Cry" width="75" height="106">
+  <img src="https://cdn.myanimelist.net/images/anime/1028/135508l.jpg" alt="Girls Band Cry nina" width="75" height="106">
+  <img src="https://cdn.myanimelist.net/images/anime/4/89877l.jpg" alt="Yuru Camp△" width="75" height="106">
+  <img src="https://cdn.myanimelist.net/images/manga/2/248632l.jpg" alt="Kimi no Suizou wo Tabetai" width="75" height="106">
 </p>
