@@ -71,4 +71,5 @@ I am a passionate **Geophysics Enthusiast** currently majoring in **Exploration 
   <img src="https://cdn.myanimelist.net/images/anime/1028/135508l.jpg" alt="Girls Band Cry nina" width="75" height="106">
   <img src="https://cdn.myanimelist.net/images/anime/4/89877l.jpg" alt="Yuru Camp△" width="75" height="106">
   <img src="https://cdn.myanimelist.net/images/manga/2/248632l.jpg" alt="Kimi no Suizou wo Tabetai" width="75" height="106">
+  <img src="  https://cdn.myanimelist.net/images/manga/3/240780l.jpg" alt="Uma Musume Cinderella Gray" width="75" height="106">
 </p>
