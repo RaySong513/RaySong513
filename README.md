@@ -1,9 +1,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=RaySong513&show_icons=true&theme=radical&hide_title=true" />
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Sans&duration=2000&pause=3000&color=C785DD&vCenter=true&width=200&height=40&lines=Hey+there%2C+I'm+Ray!)](https://git.io/typing-svg) 👋 ![Visits](https://komarev.com/ghpvc/?username=RaySong513&label=Visits&style=for-the-badge&color=blueviolet)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Sans&duration=2000&pause=3000&color=C785DD&vCenter=true&width=200&height=40&lines=Hey+there%2C+I'm+Ray!)](https://git.io/typing-svg) <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2855140/db28569cbe76f5685434bb98ad8ec8663978ad1a.png" alt="plant" width="60" height="60"/> ![Visits](https://komarev.com/ghpvc/?username=RaySong513&label=Visits&style=for-the-badge&color=blueviolet) <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2855140/4fd8a06b61d271c4eb71c85df79268429de46d63.gif" alt="Swift Spring Delivery - Avatar" width="140" height="140"/>
 
 
 I am a passionate **Geophysics Enthusiast** currently majoring in **Exploration Technology and Engineering (Exploration Geophysics)** at **China University of Geosciences (Wuhan)**. Currently researching and diving deep in the study and innovation of **microseismic research** and **exploration**.
+<img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/730/4a8b3a4ecf9207f9f66bc7085ba7a9db637ee8a5.gif" alt="howl" width="20" height="20"/>
+
 
 - 🔭 **Current Focus:** **Microseismic Monitoring** and **AI-driven Seismic Data Processing**.
 - 🌱 **Learning & Growing:** Always expanding my skillset, with a current focus on **Machine Learning** and **Distributed Acoustic Sensing**.
@@ -13,7 +15,7 @@ I am a passionate **Geophysics Enthusiast** currently majoring in **Exploration 
 
 ---
 
-💬 **Let's Connect:** Whether you're into geophysics, machine learning, or just want to chat, I'm always open to new collaborations and discussions. Let's push the boundaries of what's possible together!
+<img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1230140/73232e5c2489a4856bbd81710775d7e6870fa317.png" alt="cool animation" width="35" height="35"/> **Let's Connect:** Whether you're into geophysics, machine learning, or just want to chat, I'm always open to new collaborations and discussions. Let's push the boundaries of what's possible together!
 
 ---
 
@@ -50,16 +52,19 @@ I am a passionate **Geophysics Enthusiast** currently majoring in **Exploration 
 ---
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=RaySong513&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RaySong513&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 <!--https://github-profile-trophy.vercel.app/?username=RaySong513&theme=onedark-->
 <!--https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism-->
 <!--https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh-->
+<!--https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox-->
 
 <div align="center">
   <img src="https://count.getloli.com/get/@RaySong513.github.readme?theme=gelbooru" alt=":name" />
 </div>
 
-### 🎥 **Favorite Anime**
+---
+
+### <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2861690/331c169b60c65641bffbfb9e3bc8ee4ddadaa7c6.png" alt="seagull" width="30" height="30"/> **Favorite Anime**
 <p align="left">
   <img src="https://cdn.myanimelist.net/images/anime/1084/144617l.jpg" alt="Shikanoko Nokonoko Koshitantan" width="75" height="106">
   <img src="https://cdn.myanimelist.net/images/anime/1964/144587l.jpg" alt="My Deer Friend Nokotan" width="75" height="106">
@@ -71,5 +76,4 @@ I am a passionate **Geophysics Enthusiast** currently majoring in **Exploration 
   <img src="https://cdn.myanimelist.net/images/anime/1028/135508l.jpg" alt="Girls Band Cry nina" width="75" height="106">
   <img src="https://cdn.myanimelist.net/images/anime/4/89877l.jpg" alt="Yuru Camp△" width="75" height="106">
   <img src="https://cdn.myanimelist.net/images/manga/2/248632l.jpg" alt="Kimi no Suizou wo Tabetai" width="75" height="106">
-  <img src="  https://cdn.myanimelist.net/images/manga/3/240780l.jpg" alt="Uma Musume Cinderella Gray" width="75" height="106">
 </p>
