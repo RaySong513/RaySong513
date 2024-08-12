@@ -5,7 +5,6 @@
 <!--<img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2861690/c6de335c0a6737e5105eef701af2d3284ab513c4.gif" alt="Swift Spring Delivery - Avatar" width="80" height="80"/>-->
 <!--<img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2855140/4fd8a06b61d271c4eb71c85df79268429de46d63.gif" alt="Swift Spring Delivery - Avatar" width="70" height="70"/>-->
 
-
 I am a passionate **Geophysics Enthusiast** currently majoring in **Exploration Technology and Engineering (Exploration Geophysics)** at **China University of Geosciences (Wuhan)**. Currently researching and diving deep in the study and innovation of **microseismic research** and **exploration**.
 <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/730/4a8b3a4ecf9207f9f66bc7085ba7a9db637ee8a5.gif" alt="howl" width="20" height="20"/>
 
