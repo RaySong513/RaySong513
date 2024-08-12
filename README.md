@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=RaySong513&show_icons=true&theme=radical" />
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Sans&pause=1000&color=C785DD&vCenter=true&width=200&height=40&lines=Hey+there%2C+I'm+Ray!)](https://git.io/typing-svg) 👋 <img src="https://komarev.com/ghpvc/?username=RaySong513&label=Visits" alt="RaySong513" />
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Sans&duration=2000&pause=3000&color=C785DD&vCenter=true&width=200&height=40&lines=Hey+there%2C+I'm+Ray!)](https://git.io/typing-svg) 👋 <img src="https://komarev.com/ghpvc/?username=RaySong513&label=Visits" alt="RaySong513" />
 
 I'm a passionate geophysicist and data enthusiast, diving deep into the world of **microseismic** research and exploration. With a knack for blending cutting-edge technology with geological insights, I'm constantly pushing the boundaries of what's possible in the field of seismic analysis.
 
