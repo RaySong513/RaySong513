@@ -55,12 +55,16 @@ I am a passionate **Geophysics Enthusiast** currently majoring in **Exploration 
 <!--https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism-->
 <!--https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh-->
 
-![:name](https://count.getloli.com/get/@RaySong513.github.readme?theme=gelbooru)
-
----
+<div align="center">
+  <img src="https://count.getloli.com/get/@RaySong513.github.readme?theme=gelbooru" alt=":name" />
+</div>
 
 ### 🎥 **Favorite Anime**
 <p align="left">
-  <img src="https://cdn.myanimelist.net/images/anime/1084/144617l.jpg" alt="Shikanoko Nokonoko Koshitantan" width="225" height="318">
-  <img src="https://cdn.myanimelist.net/images/anime/1964/144587l.jpg" alt="My Deer Friend Nokotan" width="225" height="318">
+  <img src="https://cdn.myanimelist.net/images/anime/1084/144617l.jpg" alt="Shikanoko Nokonoko Koshitantan" width="112.5" height="159">
+  <img src="https://cdn.myanimelist.net/images/anime/1964/144587l.jpg" alt="My Deer Friend Nokotan" width="112.5" height="159">
+  <img src="https://cdn.myanimelist.net/images/anime/1129/135442.jpg" alt="Cyberpunk: Edgerunners" width="112.5" height="159">
+  <img src="https://cdn.myanimelist.net/images/anime/1795/95088.jpg" alt="Violet Evergarden" width="112.5" height="159">
+  <img src="https://cdn.myanimelist.net/images/anime/1015/138006l.jpg" alt="Sousou no Frieren" width="112.5" height="159">
+  <img src="https://cdn.myanimelist.net/images/anime/1667/135908l.jpg" alt="Frieren: Beyond Journey's End" width="112.5" height="159">
 </p>
