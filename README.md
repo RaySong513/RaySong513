@@ -25,13 +25,3 @@ I'm a passionate geophysicist and data enthusiast, diving deep into the world of
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=RaySong513&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🐍 Watch the Snake Eat My Contributions
-![Snake animation](https://github.com/RaySong513/RaySong513/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 🌱 Random Quote
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
