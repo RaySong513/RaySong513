@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=RaySong513&show_icons=true&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=RaySong513&show_icons=true&theme=radical&hide_title=true" />
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Sans&duration=2000&pause=3000&color=C785DD&vCenter=true&width=200&height=40&lines=Hey+there%2C+I'm+Ray!)](https://git.io/typing-svg) 👋 <img src="https://komarev.com/ghpvc/?username=RaySong513&label=Visits" alt="RaySong513" />
 
