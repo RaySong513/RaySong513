@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=RaySong513&show_icons=true&theme=radical&hide_title=true" />
+![BL_6{1D~1)MI) 5 MV QRU](https://github.com/user-attachments/assets/1bae10b2-0479-416c-b678-db22f71328e8)<img align="right" src="https://github-readme-stats.vercel.app/api?username=RaySong513&show_icons=true&theme=radical&hide_title=true" />
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Sans&duration=2000&pause=3000&color=C785DD&vCenter=true&width=200&height=40&lines=Hey+there%2C+I'm+Ray!)](https://git.io/typing-svg) 👋 ![Visits](https://komarev.com/ghpvc/?username=RaySong513&label=Visits&style=for-the-badge&color=blueviolet)
 
@@ -54,3 +54,13 @@ I am a passionate **Geophysics Enthusiast** currently majoring in **Exploration 
 <!--https://github-profile-trophy.vercel.app/?username=RaySong513&theme=onedark-->
 <!--https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism-->
 <!--https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh-->
+
+![:name](https://count.getloli.com/get/@RaySong513.github.readme?theme=gelbooru)
+
+---
+
+### 🎥 **Favorite Anime**
+<p align="left">
+  <img src="https://cdn.myanimelist.net/images/anime/1084/144617l.jpg" alt="Shikanoko Nokonoko Koshitantan" width="225" height="318">
+  <img src="https://cdn.myanimelist.net/images/anime/1964/144587l.jpg" alt="My Deer Friend Nokotan" width="225" height="318">
+</p>
