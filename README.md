@@ -63,7 +63,7 @@ I am a passionate **Geophysics Enthusiast** currently majoring in **Exploration 
 <p align="left">
   <img src="https://cdn.myanimelist.net/images/anime/1084/144617l.jpg" alt="Shikanoko Nokonoko Koshitantan" width="75" height="106">
   <img src="https://cdn.myanimelist.net/images/anime/1964/144587l.jpg" alt="My Deer Friend Nokotan" width="75" height="106">
-  <img src="https://cdn.myanimelist.net/images/anime/1129/135442.jpg" alt="Cyberpunk: Edgerunners" width="75" height="106">
+  <img src="https://cdn.myanimelist.net/images/anime/1129/135442l.jpg" alt="Cyberpunk: Edgerunners" width="75" height="106">
   <img src="https://cdn.myanimelist.net/images/anime/1448/127956l.jpg" alt="Bocchi the Rock!" width="75" height="106">
   <img src="https://cdn.myanimelist.net/images/anime/1015/138006l.jpg" alt="Sousou no Frieren" width="75" height="106">
   <img src="https://cdn.myanimelist.net/images/anime/1667/135908l.jpg" alt="Frieren: Beyond Journey's End" width="75" height="106">
