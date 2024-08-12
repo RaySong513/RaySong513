@@ -2,17 +2,17 @@
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Sans&duration=2000&pause=3000&color=C785DD&vCenter=true&width=200&height=40&lines=Hey+there%2C+I'm+Ray!)](https://git.io/typing-svg) 👋 <img src="https://komarev.com/ghpvc/?username=RaySong513&label=Visits" alt="RaySong513" />
 
-I'm a passionate geophysicist and data enthusiast, diving deep into the world of **microseismic** research and exploration. With a knack for blending cutting-edge technology with geological insights, I'm constantly pushing the boundaries of what's possible in the field of seismic analysis.
+I am a passionate geophysics student, majoring in Exploration Technology and Engineering (Exploration Geophysics) at China University of Geosciences (Wuhan). I am currently researching and diving deep into the world of **microseismic** research and exploration.
 
-- 🔭 **Current Focus:** Advancing the frontiers of **Microseismic Monitoring** and **AI-driven Seismic Data Processing**.
-- 🌱 **Learning & Growing:** Always expanding my skillset, with a current focus on **Machine Learning** and **Seismic Data Visualization**.
+- 🔭 **Current Focus:** **Microseismic Monitoring** and **AI-driven Seismic Data Processing**.
+- 🌱 **Learning & Growing:** Always expanding my skillset, with a current focus on **Machine Learning** and **Distributed Acoustic Sensing**.
 - 📝 **Blog:** [RaySong's Geological Insights](https://www.RaySong513.github.io) - Sharing knowledge, tips, and discoveries in geophysics.
 - 🎥 **Bilibili:** [My Bilibili Space](https://space.bilibili.com/27228095) - Where science meets creativity!
 - 📫 **Reach Out:** Feel free to drop me a line at **songjinglei@cug.edu.cn**.
 
 ---
 
-💬 **Let's Connect:** Whether you're into geophysics, machine learning, or just want to chat about the latest tech trends, I'm always open to new collaborations and discussions. Let's push the boundaries of what's possible, together!
+💬 **Let's Connect:** Whether you're into geophysics, machine learning, or just want to chat, I'm always open to new collaborations and discussions. Let's push the boundaries of what's possible together!
 
 ---
 
