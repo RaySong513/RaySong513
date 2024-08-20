@@ -1,12 +1,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=RaySong513&show_icons=true&theme=radical&hide_title=true" />
 
-### <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2861690/c6de335c0a6737e5105eef701af2d3284ab513c4.gif" alt="Swift Spring Delivery - Avatar" width="90" height="90"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Sans&duration=2000&pause=3000&color=C785DD&vCenter=true&width=200&height=40&lines=Hey+there%2C+I'm+Ray!)](https://git.io/typing-svg) <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2855140/db28569cbe76f5685434bb98ad8ec8663978ad1a.png" alt="plant" width="50" height="50"/> ![Visits](https://komarev.com/ghpvc/?username=RaySong513&label=Visits&style=for-the-badge&color=blueviolet) 
+### <img src="pic/sticker/Swift_Spring_Delivery_Avatar.gif" alt="Swift Spring Delivery - Avatar" width="90" height="90"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Sans&duration=2000&pause=3000&color=C785DD&vCenter=true&width=200&height=40&lines=Hey+there%2C+I'm+Ray!)](https://git.io/typing-svg) <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2855140/db28569cbe76f5685434bb98ad8ec8663978ad1a.png" alt="plant" width="50" height="50"/> ![Visits](https://komarev.com/ghpvc/?username=RaySong513&label=Visits&style=for-the-badge&color=blueviolet) 
 
-<!--<img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2861690/c6de335c0a6737e5105eef701af2d3284ab513c4.gif" alt="Swift Spring Delivery - Avatar" width="80" height="80"/>-->
-<!--<img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2855140/4fd8a06b61d271c4eb71c85df79268429de46d63.gif" alt="Swift Spring Delivery - Avatar" width="70" height="70"/>-->
+<!--<img src="pic/sticker/Swift_Spring_Delivery_Avatar.gif" alt="Swift Spring Delivery - Avatar" width="80" height="80"/>-->
 
 I am a passionate **Geophysics Enthusiast** currently majoring in **Exploration Technology and Engineering (Exploration Geophysics)** at **China University of Geosciences (Wuhan)**. Currently researching and diving deep in the study and innovation of **microseismic research** and **exploration**.
-<img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/730/4a8b3a4ecf9207f9f66bc7085ba7a9db637ee8a5.gif" alt="howl" width="20" height="20"/>
+<img src="pic/icon/howl.gif" alt="howl" width="20" height="20"/>
 
 
 - 🔭 **Current Focus:** **Microseismic Monitoring** and **AI-driven Seismic Data Processing**.
