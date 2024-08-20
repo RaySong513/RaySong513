@@ -68,14 +68,14 @@ I am a passionate **Geophysics Enthusiast** currently majoring in **Exploration 
 
 ### <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2861690/331c169b60c65641bffbfb9e3bc8ee4ddadaa7c6.png" alt="seagull" width="30" height="30"/> **Favorite Anime**
 <p align="left">
-  <img src="https://cdn.myanimelist.net/images/anime/1084/144617l.jpg" alt="Shikanoko Nokonoko Koshitantan" width="75" height="106">
-  <img src="https://cdn.myanimelist.net/images/anime/1964/144587l.jpg" alt="My Deer Friend Nokotan" width="75" height="106">
-  <img src="https://cdn.myanimelist.net/images/anime/1129/135442l.jpg" alt="Cyberpunk: Edgerunners" width="75" height="106">
-  <img src="https://cdn.myanimelist.net/images/anime/1448/127956l.jpg" alt="Bocchi the Rock!" width="75" height="106">
-  <img src="https://cdn.myanimelist.net/images/anime/1015/138006l.jpg" alt="Sousou no Frieren" width="75" height="106">
-  <img src="https://cdn.myanimelist.net/images/anime/1667/135908l.jpg" alt="Frieren: Beyond Journey's End" width="75" height="106">
-  <img src="https://cdn.myanimelist.net/images/anime/1711/140515l.jpg" alt="Girls Band Cry" width="75" height="106">
-  <img src="https://cdn.myanimelist.net/images/anime/1028/135508l.jpg" alt="Girls Band Cry nina" width="75" height="106">
-  <img src="https://cdn.myanimelist.net/images/anime/4/89877l.jpg" alt="Yuru Camp△" width="75" height="106">
-  <img src="https://cdn.myanimelist.net/images/manga/2/248632l.jpg" alt="Kimi no Suizou wo Tabetai" width="75" height="106">
+  <img src="pic/Anime/Shikanoko_Nokonoko_Koshitantan.jpg" alt="Shikanoko Nokonoko Koshitantan" width="75" height="106">
+  <img src="pic/Anime/My_Deer_Friend_Nokotan.jpg" alt="My Deer Friend Nokotan" width="75" height="106">
+  <img src="pic/Anime/Cyberpunk_Edgerunners.jpg" alt="Cyberpunk: Edgerunners" width="75" height="106">
+  <img src="pic/Anime/Bocchi_the_Rock.jpg" alt="Bocchi the Rock!" width="75" height="106">
+  <img src="pic/Anime/Sousou_no_Frieren.jpg" alt="Sousou no Frieren" width="75" height="106">
+  <img src="pic/Anime/Frieren_Beyond_Journeys_End.jpg" alt="Frieren: Beyond Journey's End" width="75" height="106">
+  <img src="pic/Anime/Girls_Band_Cry.jpg" alt="Girls Band Cry" width="75" height="106">
+  <img src="pic/Anime/Girls_Band_Cry_nina.jpg" alt="Girls Band Cry nina" width="75" height="106">
+  <img src="pic/Anime/Yuru_Camp.jpg" alt="Yuru Camp△" width="75" height="106">
+  <img src="pic/Anime/Kimi_no_Suizou_wo_Tabetai.jpg" alt="Kimi no Suizou wo Tabetai" width="75" height="106">
 </p>
