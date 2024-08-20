@@ -17,7 +17,7 @@ I am a passionate **Geophysics Enthusiast** currently majoring in **Exploration 
 
 ---
 
-<img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1230140/73232e5c2489a4856bbd81710775d7e6870fa317.png" alt="cool animation" width="35" height="35"/> **Let's Connect:** Whether you're into geophysics, machine learning, or just want to chat, I'm always open to new collaborations and discussions. Let's push the boundaries of what's possible together!
+<img src="pic/icon/ATRI_attention.png" alt="ATRI_attention" width="35" height="35"/> **Let's Connect:** Whether you're into geophysics, machine learning, or just want to chat, I'm always open to new collaborations and discussions. Let's push the boundaries of what's possible together!
 
 ---
 
