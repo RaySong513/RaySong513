@@ -73,9 +73,9 @@ I am a passionate **Geophysics Enthusiast** currently majoring in **Exploration 
   <img src="pic/Anime/Cyberpunk_Edgerunners.jpg" alt="Cyberpunk: Edgerunners" width="75" height="106">
   <img src="pic/Anime/Bocchi_the_Rock.jpg" alt="Bocchi the Rock!" width="75" height="106">
   <img src="pic/Anime/Sousou_no_Frieren.jpg" alt="Sousou no Frieren" width="75" height="106">
-  <img src="pic/Anime/Frieren_Beyond_Journeys_End.jpg" alt="Frieren: Beyond Journey's End" width="75" height="106">
+  <img src="pic/Anime/Frieren_Beyond_Journey's_End.jpg" alt="Frieren: Beyond Journey's End" width="75" height="106">
   <img src="pic/Anime/Girls_Band_Cry.jpg" alt="Girls Band Cry" width="75" height="106">
   <img src="pic/Anime/Girls_Band_Cry_nina.jpg" alt="Girls Band Cry nina" width="75" height="106">
-  <img src="pic/Anime/Yuru_Camp.jpg" alt="Yuru Camp△" width="75" height="106">
+  <img src="pic/Anime/Yuru_Camp△.jpg" alt="Yuru Camp△" width="75" height="106">
   <img src="pic/Anime/Kimi_no_Suizou_wo_Tabetai.jpg" alt="Kimi no Suizou wo Tabetai" width="75" height="106">
 </p>
