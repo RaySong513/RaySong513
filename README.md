@@ -77,4 +77,5 @@ I am a passionate **Geophysics Enthusiast** currently majoring in **Exploration 
   <img src="pic/Anime/Girls_Band_Cry_nina.jpg" alt="Girls Band Cry nina" width="75" height="106">
   <img src="pic/Anime/Yuru_Camp△.jpg" alt="Yuru Camp△" width="75" height="106">
   <img src="pic/Anime/Kimi_no_Suizou_wo_Tabetai.jpg" alt="Kimi no Suizou wo Tabetai" width="75" height="106">
+  <img src="pic/Anime/MyGO.jpg" alt="Kimi no Suizou wo Tabetai" width="75" height="106">
 </p>
