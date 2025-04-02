@@ -14,6 +14,10 @@ I am a passionate **Geophysics Enthusiast** currently majoring in **Exploration 
 - 🎥 **Bilibili:** [My Bilibili Space](https://space.bilibili.com/27228095) - Where science meets creativity!
 - 📫 **Reach Out:** Feel free to drop me a line at **songjinglei@cug.edu.cn**.
 
+[![github](https://img.shields.io/badge/github-12100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaySong513)
+[![bilibili](https://img.shields.io/badge/bilibili-00A1D6.svg?&style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/27228095)
+[![Gmail](https://img.shields.io/badge/mail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](songjinglei@cug.edu.cn)
+
 ---
 
 <img src="pic/icon/ATRI_attention.png" alt="ATRI_attention" width="35" height="35"/> **Let's Connect:** Whether you're into geophysics, machine learning, or just want to chat, I'm always open to new collaborations and discussions. Let's push the boundaries of what's possible together!
@@ -31,6 +35,7 @@ I am a passionate **Geophysics Enthusiast** currently majoring in **Exploration 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![intellijidea](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![MATLAB Toolboxes](https://img.shields.io/badge/MATLAB%20Toolboxes-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
@@ -41,9 +46,13 @@ I am a passionate **Geophysics Enthusiast** currently majoring in **Exploration 
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![webex](https://img.shields.io/badge/webex-000000?style=for-the-badge&logo=webex&logoColor=white)
+![wireshark](https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![ollama](https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![tower](https://img.shields.io/badge/tower-00CAF4?style=for-the-badge&logo=tower&logoColor=white)
+![gnometerminal](https://img.shields.io/badge/gnometerminal-241F31?style=for-the-badge&logo=gnometerminal&logoColor=white)
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -78,4 +87,18 @@ I am a passionate **Geophysics Enthusiast** currently majoring in **Exploration 
   <img src="pic/Anime/Yuru_Camp△.jpg" alt="Yuru Camp△" width="75" height="106">
   <img src="pic/Anime/Kimi_no_Suizou_wo_Tabetai.jpg" alt="Kimi no Suizou wo Tabetai" width="75" height="106">
   <img src="pic/Anime/MyGO.jpg" alt="Kimi no Suizou wo Tabetai" width="75" height="106">
+</p>
+
+---
+
+### 🎮 **Favorite Game**
+![playstation](https://img.shields.io/badge/playstation-0070D1?style=for-the-badge&logo=playstation&logoColor=white)
+![steam](https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![counterstrike](https://img.shields.io/badge/counterstrike-F47C00?style=for-the-badge&logo=counterstrike&logoColor=white)
+
+
+
+<p align="left">
+  <img src="pic/Game/CS2.jpg" alt="CS2" width="75" height="106">
+  <img src="pic/Game/The%20Last%20of%20Us.jpg" alt="The Last of Us" width="75" height="106">
 </p>
