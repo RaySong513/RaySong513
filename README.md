@@ -74,7 +74,7 @@ I am a passionate **Geophysics Enthusiast** currently majoring in **Exploration 
 
 ---
 
-### <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2861690/331c169b60c65641bffbfb9e3bc8ee4ddadaa7c6.png" alt="seagull" width="30" height="30"/> **Favorite Anime**
+### <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2861690/331c169b60c65641bffbfb9e3bc8ee4ddadaa7c6.png" alt="seagull" width="30" height="30"/> **Favorite Animes**
 <p align="left">
   <img src="pic/Anime/Shikanoko_Nokonoko_Koshitantan.jpg" alt="Shikanoko Nokonoko Koshitantan" width="75" height="106">
   <img src="pic/Anime/My_Deer_Friend_Nokotan.jpg" alt="My Deer Friend Nokotan" width="75" height="106">
@@ -91,14 +91,24 @@ I am a passionate **Geophysics Enthusiast** currently majoring in **Exploration 
 
 ---
 
-### 🎮 **Favorite Game**
+### 🎮 **Favorite Games**
 ![playstation](https://img.shields.io/badge/playstation-0070D1?style=for-the-badge&logo=playstation&logoColor=white)
 ![steam](https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![counterstrike](https://img.shields.io/badge/counterstrike-F47C00?style=for-the-badge&logo=counterstrike&logoColor=white)
 
-
-
 <p align="left">
   <img src="pic/Game/CS2.jpg" alt="CS2" width="75" height="106">
   <img src="pic/Game/The%20Last%20of%20Us.jpg" alt="The Last of Us" width="75" height="106">
+  <img src="pic/Game/ATRI.jpg" alt="ATRI" width="75" height="106">
+  <img src="pic/Game/OPUS.jpg" alt="OPUS" width="75" height="106">
+  <img src="pic/Game/Maitetsu-Last%20Run!!.jpg" alt="Maitetsu-Last%20Run!!" width="75" height="106">
+  <img src="pic/Game/LibraryOfRuina.jpg" alt="LibraryOfRuina" width="75" height="106">
+  <img src="pic/Game/LobotomyCorporation.jpg" alt="LobotomyCorporation" width="75" height="106">
+  <img src="pic/Game/DokiDokiLiteratureClubPlus!.jpg" alt="DokiDokiLiteratureClubPlus!" width="75" height="106">
+  <img src="pic/Game/Celeste.jpg" alt="Celeste" width="75" height="106">
+  <img src="pic/Game/BlackMyth-Wukong.jpg" alt="BlackMyth-Wukong" width="75" height="106">
+  <img src="pic/Game/VA-11Hall-A.jpg" alt="VA-11Hall-A" width="75" height="106">
+  <img src="pic/Game/CARTO.jpg" alt="CARTO" width="75" height="106">
+  <img src="pic/Game/WRC7.jpg" alt="WRC7" width="75" height="106">
+  <img src="pic/Game/DeltaForce-BlackHawkDown.jpg" alt="DeltaForce-BlackHawkDown" width="75" height="106">
 </p>
