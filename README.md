@@ -63,7 +63,7 @@ I am a passionate **Geophysics Enthusiast** currently majoring in **Exploration 
 ---
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=RaySong513&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RaySong513)](https://github.com/ryo-ma/github-profile-trophy)
 <!--https://github-profile-trophy.vercel.app/?username=RaySong513&theme=onedark-->
 <!--https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism-->
 <!--https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh-->
@@ -100,6 +100,11 @@ I am a passionate **Geophysics Enthusiast** currently majoring in **Exploration 
 
 <p align="left">
   <img src="pic/Game/CS2.jpg" alt="CS2" width="75" height="106">
+  <img src="pic/Game/ResidentEvilRequiem.jpg" alt="ResidentEvilRequiem" width="75" height="106">
+  <img src="pic/Game/ResidentEvil2.jpg" alt="ResidentEvil2" width="75" height="106">
+  <img src="pic/Game/ResidentEvil3.jpg" alt="ResidentEvil3" width="75" height="106">
+  <img src="pic/Game/ResidentEvil4.jpg" alt="ResidentEvil4" width="75" height="106">
+  <img src="pic/Game/DeathStranding2.jpg" alt="DeathStranding2" width="75" height="106">
   <img src="pic/Game/The%20Last%20of%20Us.jpg" alt="The Last of Us" width="75" height="106">
   <img src="pic/Game/ATRI.jpg" alt="ATRI" width="75" height="106">
   <img src="pic/Game/OPUS.jpg" alt="OPUS" width="75" height="106">
